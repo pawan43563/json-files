@@ -24,7 +24,7 @@
         "description": "Contentstack brings business and technology teams together to deliver personalized, omnichannel digital experiences.",
         "navLinks":[
             {"name":"Home", "link": "/"},
-            {"name": "Raw Eng", "link": "/raweng"},
+            {"name": "Raw Engineering", "link": "/rawengineering"},
             {"name": "Surfboard", "link": "/surfboard"}],
         "mainContent":{
             "mainHeading":"",
@@ -44,7 +44,7 @@
         "navLinks":[
             {"name":"Home", "link": "/"},
             {"name": "Contentstack", "link": "/contentstack"},
-            {"name": "Raw Eng", "link": "/raweng"}],
+            {"name": "Raw Engineering", "link": "/rawengineering"}],
         "mainContent":{
             "mainHeading":"",
             "bannerImage":"",
@@ -58,6 +58,10 @@
     },
     "Home":{
         "logo": "",
+        "navLinks":[
+            {"name":"Surfboard", "link": "/surfboard"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Raw Engineering", "link": "/rawengineering"}],
         "mainContent":{
             "mainHeading":"",
             "bannerImage":"",
