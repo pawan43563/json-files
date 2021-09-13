@@ -20,6 +20,7 @@
     },
     "CS":{
         "logo": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt8bef5179c0a651ff/602dcb3427291f4016816697/contentstack-logo_White_web_(1).png",
+        "bodylogo":"https://cdn.fs.teachablecdn.com/04TBWY0hRdRHmM7m2uAy",
         "type": "Headless CMS",
         "description": "Contentstack brings business and technology teams together to deliver personalized, omnichannel digital experiences.",
         "navLinks":[
