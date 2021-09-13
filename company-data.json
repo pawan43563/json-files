@@ -1,0 +1,67 @@
+{   
+    "RE":{
+        "logo": "https://cdn.fs.teachablecdn.com/dNjcnX4ZRACyuKooKLkd",
+        "description": "Raw Engineering’s experienced Strategic Consultants, Solutions Architects, Designers, and Developers turn Business Vision into Digital Reality",
+        "type": "Services and Development",
+        "navLinks":[
+            {"name":"Home", "link": "/"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Surfboard", "link": "/surfboard"}],
+        "mainContent": {
+            "mainHeading":"",
+            "bannerImage":"",
+            "mainBody":""
+        },
+        "footerData":{
+            "logoUrl":"https://cdn.fs.teachablecdn.com/dNjcnX4ZRACyuKooKLkd",
+            "copyrightInfo":"© Raw Engineering 2021",
+            "links":[]
+        }
+    },
+    "CS":{
+        "logo": "https://cdn.fs.teachablecdn.com/04TBWY0hRdRHmM7m2uAy",
+        "type": "Headless CMS",
+        "description": "Contentstack brings business and technology teams together to deliver personalized, omnichannel digital experiences.",
+        "navLinks":[
+            {"name":"Home", "link": "/"},
+            {"name": "Raw Eng", "link": "/raweng"},
+            {"name": "Surfboard", "link": "/surfboard"}],
+        "mainContent":{
+            "mainHeading":"",
+            "bannerImage":"",
+            "mainBody":""
+        },
+        "footerData":{
+            "logoUrl":"https://cdn.fs.teachablecdn.com/04TBWY0hRdRHmM7m2uAy",
+            "copyrightInfo":"© Contentstack 2021",
+            "links":[]
+        }
+    },
+    "SB":{
+        "logo": "https://cdn.fs.teachablecdn.com/taJ6gjJQVWgJ0ukORyGq",
+        "type": "Training and Development",
+        "description": "Best in class IT Training",
+        "navLinks":[
+            {"name":"Home", "link": "/"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Raw Eng", "link": "/raweng"}],
+        "mainContent":{
+            "mainHeading":"",
+            "bannerImage":"",
+            "mainBody":""
+        },
+        "footerData":{
+            "logoUrl":"https://cdn.fs.teachablecdn.com/taJ6gjJQVWgJ0ukORyGq",
+            "copyrightInfo":"© Surfboard 2021",
+            "links":[]
+        }
+    },
+    "Home":{
+        "logo": "",
+        "mainContent":{
+            "mainHeading":"",
+            "bannerImage":"",
+            "mainBody":""
+        }
+    }
+}
