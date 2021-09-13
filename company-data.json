@@ -2,6 +2,7 @@
     "RE":{
         "logo": "https://pawan43563.github.io/Images/header-logo.svg",
         "bodylogo":"https://cdn.fs.teachablecdn.com/dNjcnX4ZRACyuKooKLkd",
+         "imageUrl": "https://cdn.fs.teachablecdn.com/ENCGRSkTRImUV05sj2o4",
         "description": "Raw Engineering’s experienced Strategic Consultants, Solutions Architects, Designers, and Developers turn Business Vision into Digital Reality",
         "type": "Services and Development",
         "navLinks":[
@@ -22,6 +23,7 @@
     "CS":{
         "logo": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt8bef5179c0a651ff/602dcb3427291f4016816697/contentstack-logo_White_web_(1).png",
         "bodylogo":"https://cdn.fs.teachablecdn.com/04TBWY0hRdRHmM7m2uAy",
+        "imageUrl": "https://cdn.fs.teachablecdn.com/uzhm2qASSIS34BOGpg5A",
         "type": "Headless CMS",
         "description": "Contentstack brings business and technology teams together to deliver personalized, omnichannel digital experiences.",
         "navLinks":[
@@ -41,6 +43,7 @@
     },
     "SB":{
         "logo": "https://cdn.fs.teachablecdn.com/taJ6gjJQVWgJ0ukORyGq",
+        "imageUrl": "https://cdn.fs.teachablecdn.com/WKaE5E5SlSSbcDKZFCiW",
         "type": "Training and Development",
         "description": "Best in class IT Training",
         "navLinks":[
