@@ -16,7 +16,7 @@
             "mainBody":""
         },
         "footerData":{
-            "logoUrl":"https://pawan43563.github.io/Images/header-logo.svg",
+            "logo":"https://pawan43563.github.io/Images/header-logo.svg",
             "copyrightInfo":"Copyright © 2021 Raw Engineering LLC. All Rights Reserved.",
             "links":[]
         }
@@ -38,7 +38,7 @@
             "mainBody":""
         },
         "footerData":{
-            "logoUrl":"https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt8bef5179c0a651ff/602dcb3427291f4016816697/contentstack-logo_White_web_(1).png",
+            "logo":"https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt8bef5179c0a651ff/602dcb3427291f4016816697/contentstack-logo_White_web_(1).png",
             "copyrightInfo":"Copyright © 2021 ContentStack. All Rights Reserved.",
             "links":[]
         }
@@ -60,13 +60,13 @@
             "mainBody":""
         },
         "footerData":{
-            "logoUrl":"https://raw.githubusercontent.com/pawan43563/Images/main/Surfboard%20India.png",
+            "logo":"https://raw.githubusercontent.com/pawan43563/Images/main/Surfboard%20India.png",
             "copyrightInfo":"Copyright © 2021 Surfboard Ventures. All Rights Reserved.",
             "links":[]
         }
     },
     "Home":{
-        "logoUrl": "https://pawan43563.github.io/Images/logocompany.png",
+        "logo": "https://pawan43563.github.io/Images/logocompany.png",
         "navLinks":[
             {"name":"Surfboard", "link": "/surfboard"},
             {"name": "Contentstack", "link": "/contentstack"},
