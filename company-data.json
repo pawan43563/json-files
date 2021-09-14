@@ -66,7 +66,7 @@
         }
     },
     "Home":{
-        "logo": "",
+        "logoUrl": "https://pawan43563.github.io/Images/logocompany.png",
         "navLinks":[
             {"name":"Surfboard", "link": "/surfboard"},
             {"name": "Contentstack", "link": "/contentstack"},
